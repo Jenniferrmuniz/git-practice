@@ -1,4 +1,3 @@
-Name: Jennifer
+Name: Jennifer Muniz
 Age: 23
 Favorite Color: Purple
-
